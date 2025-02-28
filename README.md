@@ -17,10 +17,10 @@
 - 🌱 I’m currently working on Next.js 
   
 
-- ❓ Ask me about anything related to programming, leetcode, and pets🐱  
+- ❓ Ask me about anything related to React, leetcode, and pets🐱  
   
 
-- ⚡ Fun fact: I always feed stray animals  
+- ⚡ Fun fact: I'm big on fitness! 
  
   
 
